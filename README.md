@@ -1,5 +1,6 @@
 # apple-folders-image-generation
-https://github.com/wyattx05/apple-folders-image-generation/blob/a7a59fa512eaae1315238c7af97f96a75343ba1d/Folder%20Genie.png
+![Folder Genie](https://github.com/user-attachments/assets/48217771-4342-41ae-9a8a-a4e3cacab20e)
+
 Using the Diffusion Bee app for Mac, I trained my own Image Generation model to generate custom color folders with icons on top to use for your Mac.
 
 How to use:
