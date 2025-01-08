@@ -13,6 +13,7 @@ Using the Diffusion Bee app for Mac, I trained my own Image Generation model to 
 
 # Caution ⚠️
 - This model is not perfect and won't always give the result you want. Please follow the prompts suggested as that will work best!
+- This page and project is still under construction so please keep that in mind!
 
 # Other ℹ️
 - Feel free to train the model with the dataset provided on any service of your choice.
