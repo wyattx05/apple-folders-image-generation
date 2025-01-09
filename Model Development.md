@@ -6,10 +6,6 @@ Here is where I will show all the developments for FolderGenie and changes in ne
 | ![bluecolorfolderonawhiteb_43957192 Background Removed](https://github.com/user-attachments/assets/ef1a6c74-645b-4e02-9ad7-c911094ed48d) | ![blackfoldercolorcompassic_54796498](https://github.com/user-attachments/assets/2909e151-9de2-43d8-8c1f-d293f90617ff) | ![icecolorfolder_28304545](https://github.com/user-attachments/assets/7aa4f266-cde1-47bf-aa6d-92a472dcd139) | ![folder_22663677](https://github.com/user-attachments/assets/ee5b94e6-1eb0-4f1e-ba54-ae82e6ca35c5) | ![tealcolorfolderonawhiteb_51554145](https://github.com/user-attachments/assets/384290bc-dda9-46f9-a0ac-cbb8b92d218d) | 
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 
-
-
-
-
 Model 1 generation:
 
 I started this project by creating the dataset by using a base folder on my Mac and changing the color with the systems color picker then saving them all as PNGs. I also used the Icons8 website to gather different icons and a website that could generate more folder colors and icons on them.
@@ -22,6 +18,10 @@ I put each image file through Adobe Illustrator to put a white background around
 For the results for model 2 all the icons and folders are visible behind a white background. Thie results from this model were not good also becuase I only trained it with only 100 training iterations again because it was only a test to ensure the dataset was looking good. But with the 3rd version of this model I am going to train it with 1500 training iterations where I will really start testing the results from these models.
 
 ## Model 3
+
+| ![bluecolorfolderwithanicon_28207089](https://github.com/user-attachments/assets/b7a567c9-a67e-45f7-909f-bda49e8ee3c4) | ![pinkcolorfolderwithanicon_89192924](https://github.com/user-attachments/assets/9de4b586-efd2-4037-af89-4ec4d300d4ed) | ![greencolorfolderwithanico_12357541](https://github.com/user-attachments/assets/09549c7c-2026-42f2-9596-f492c9142e83) | ![tealcolorfolderonawhiteb_51291364](https://github.com/user-attachments/assets/0471383f-567e-40a0-9a0f-5c666545ac31) | ![greencolorfolderonawhite_98275435](https://github.com/user-attachments/assets/bc61c46d-8df6-4e8e-a0a9-f259a63b8b5a) |
+| ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+
 This model was the first where I took the results generated seriously. I trained the model with 1500 iterations whih is the defult for stable diffusion. These results were not as bad as I expected it generated many different kinds of folders but still had some clear problems with putting icons on folders. For the next model since there are 26 images in the dataset I am going to train it 2600 times and then after that model depending on the results I will train that model again instead of retraining with the basic stable diffusion model. My hope is that this will make the model the best it can be.
 
 ## Model 4-4.1 & 5
