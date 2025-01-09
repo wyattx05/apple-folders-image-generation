@@ -12,7 +12,10 @@ Right click on the image, go to quick actions, then select Remove Background.
 ## Step 3
 Right click the folder you want to edit, select Get Info, then drag or copy and past the image into the top left hand corner icon.
 
-<img width="600" alt="Screenshot 2025-01-08 at 7 49 24 PM" src="https://github.com/user-attachments/assets/43f026a8-49c3-4bbb-906d-3dc7433b4a32" />
+<img width="541" alt="Screenshot 2025-01-08 at 10 17 21 PM" src="https://github.com/user-attachments/assets/bc8f181c-5162-4797-9320-7ce95504eed4" />
+
+
+
 
 ## Done
 Your folder should have it's new icon now 
