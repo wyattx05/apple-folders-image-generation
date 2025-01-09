@@ -1,5 +1,5 @@
-# How to download this model
-I am still getting used to using Git-Hub so for now I am hosting the model on Google Drive and it can be downloaded from there. This won't be the case forever.
+# How to download the latest model
+I am still getting used to using GitHub so for now I am hosting the model on Google Drive and it can be downloaded from there. This won't be the case forever. I plan on making more models off of stable diffusion for me to post on platforms like Hugginface for easier access.
 
 # Download Link 🔗
 https://drive.google.com/file/d/1KQTvBtzFeAfi-vPcAscDHDkfMV5XNf-G/view?usp=sharing
