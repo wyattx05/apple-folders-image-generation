@@ -24,14 +24,11 @@ Using the Diffusion Bee app for Mac, I trained my own Image Generation model to 
 
 # Shout Outs 📣
 
-Tools used to make dataset:
+Tools used to make FolderGenie:
 1. Folder Art tool - https://folderart.christianvm.dev
 2. Icons8 Website - https://icons8.com/icons/deco-glyph
 3. Adobe Illistrator - To make the background of the images in the dataset white instead of transparent
-4. MacOS system color picker tool
-
-   
-   <img width="1240" alt="System Picker" src="https://github.com/user-attachments/assets/645888d6-ea52-4af2-8891-93c44b614f6c" />
+4. DiffusionBee  - https://diffusionbee.com
 
 
 
