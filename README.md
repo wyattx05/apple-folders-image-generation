@@ -7,20 +7,19 @@ Using the Diffusion Bee app for Mac, I trained my own Image Generation model to 
 # Getting Started 🤖
 1. Download Stable Diffusion Bee
        https://diffusionbee.com
-2. Download my Folders Model then upload it to the application
-3. Look through the prompts.txt file and start generating your folders
+2. Download my model on the Model 6 Download document
+3. Look through the Prompts document and start generating your folders
 4. Remove the background of the image and set the new image as your icon
 
-#### For more instruction read through the Model 6 Download & How to apply generated folder documents
+#### For more instruction read through all the Model 6 Download & How to apply generated folder documents.
 
 # Caution ⚠️
-- This model is not perfect and won't always give the result you want. Please follow the prompts suggested as that will work best!
-- This page and project is still under construction so please keep that in mind!
+- This model is not perfect and won't always give the result you want. Please follow the prompts suggested as that will work best.
+- This page and project is still under construction so please keep that in mind.
 
 # Other ℹ️
 - Feel free to train the model with the dataset provided on any service of your choice.
 - I plan on training a model and hosting it on hugging face in the future.
-- People might think what is the point of this project if you created a bunch of folders for the dataset with pre existing tools, but I made this project becuase I just wanted to say what kind of folder I wanted and have it made instantly for me.
 
 # Shout Outs 📣
 
@@ -30,9 +29,6 @@ Tools used to make FolderGenie:
 3. Adobe Illistrator - To make the background of the images in the dataset white instead of transparent
 4. DiffusionBee  - https://diffusionbee.com
 
+### Inspired by open-genmoji who re-created apples genmoji feature
 
-
-
-
-Inspired by open-genmoji who re-created apples genmoji feature!
 https://github.com/EvanZhouDev/open-genmoji
