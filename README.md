@@ -1,4 +1,4 @@
-# apple-folders-image-generation
+# Apple Folder Image Generation with DiffusionBee
 ![Folder Genie](https://github.com/user-attachments/assets/48217771-4342-41ae-9a8a-a4e3cacab20e)
 
 Welcome to Folder Genie!
