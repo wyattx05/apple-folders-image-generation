@@ -11,10 +11,11 @@ The dataset provided in a ZIP file consist of various color folders and folders 
 7) Configure other settings such as name, sample seed, and destination path
 
 # What I used to create this dataset
-Folder Art tool - https://folderart.christianvm.dev
-Icons8 Website - https://icons8.com/icons/deco-glyph
-Adobe Illistrator - To make the background of the images in the dataset white instead of transparent
-Mac color picker - save a folder icon, change the color, save as a png
+
+- Folder Art tool - https://folderart.christianvm.dev
+- Icons8 Website - https://icons8.com/icons/deco-glyph
+- Adobe Illistrator - To make the background of the images in the dataset white instead of transparent
+- Mac color picker - save a folder icon, change the color, save as a png
 
 # Settings for when I trained my model
 - Resolution for data set: 512x512
