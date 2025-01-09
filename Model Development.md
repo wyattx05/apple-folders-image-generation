@@ -3,6 +3,13 @@ Here is where I will show all the developments for FolderGenie and changes in ne
 
 ## Model 1 & 2
 
+| ![bluecolorfolderonawhiteb_43957192 Background Removed](https://github.com/user-attachments/assets/ef1a6c74-645b-4e02-9ad7-c911094ed48d) | ![blackfoldercolorcompassic_54796498](https://github.com/user-attachments/assets/2909e151-9de2-43d8-8c1f-d293f90617ff) | ![icecolorfolder_28304545](https://github.com/user-attachments/assets/7aa4f266-cde1-47bf-aa6d-92a472dcd139) | ![folder_22663677](https://github.com/user-attachments/assets/ee5b94e6-1eb0-4f1e-ba54-ae82e6ca35c5) | ![tealcolorfolderonawhiteb_51554145](https://github.com/user-attachments/assets/384290bc-dda9-46f9-a0ac-cbb8b92d218d) | 
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+
+
+
+
+
 Model 1 generation:
 
 I started this project by creating the dataset by using a base folder on my Mac and changing the color with the systems color picker then saving them all as PNGs. I also used the Icons8 website to gather different icons and a website that could generate more folder colors and icons on them.
