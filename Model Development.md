@@ -26,6 +26,9 @@ This model was the first where I took the results generated seriously. I trained
 
 ## Model 4-4.1 & 5
 
+| ![Blackcolorfolderonawhite_88810004](https://github.com/user-attachments/assets/c07b5fcc-aced-4949-9198-06624188846f) | ![Browncolorfolderwithanexa_62713662 Background Removed](https://github.com/user-attachments/assets/fe590d15-8473-44a1-a872-f7ac7ad75346) | ![pinkcolorfolderwithasmile_25127792](https://github.com/user-attachments/assets/372652a8-f938-4f44-9449-d51aecbd91a0) | ![greencolorfolderonawhite_13032951](https://github.com/user-attachments/assets/faa7c9bb-2489-43da-91f7-6825c5b33a16) | ![orangecolorfolderwithaloc_91029156 Background Removed](https://github.com/user-attachments/assets/92f54231-29d4-4fdc-b023-8e9508bdc492) | ![greencolorfolderwithacomp_59761842](https://github.com/user-attachments/assets/2d95a5d8-c352-4b79-a7c0-27aefbba9131) | ![purplecolorfolderwithaico_51220246](https://github.com/user-attachments/assets/85ce060b-a6e7-481a-9a45-974b2f33bc9e) |
+| --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+ 
 Model 4 generation:
 
 Resolution for data set: 512x512
@@ -56,6 +59,16 @@ Time:
 The results were not as good as I expected. The model still had the same trouble putting icons on folders and aftering testing a various different prompts I decided I needed to refine the pronpts in the training data to be more consistant. My plan is to scrap model five go into the latest dataset and make everyprompt unified. I only have three types of prompts, folers with icons prompts, folder colors prompts, and icon prompts. Once I go over the prompts in the dataset I will retrain to make model six at 4200 iterations again.
 
 ## Model 6
+
+| ![redcolorfolderonawhiteba_41700723 Background Removed](https://github.com/user-attachments/assets/30b1ebeb-fd85-4df9-8f7f-38b2e5d02f23) | ![orangecolorfolderonawhite_54862724 Background Removed](https://github.com/user-attachments/assets/866187f8-93b9-4247-90a6-ea9915f0f8b1) | ![pinkcolorfolderonawhiteb_4803479 Background Removed](https://github.com/user-attachments/assets/50902625-89d0-4555-a8f7-975352d54827) | ![purplecolorfolderonawhite_8427870 Background Removed](https://github.com/user-attachments/assets/5faa5ba9-ec54-41a6-a487-be9ce47699c9) | ![Yellowcolorfolderonawhite_90432293 Background Removed](https://github.com/user-attachments/assets/4131193b-7759-4aa1-a4e3-236709c0cbb3) | ![greencolorfolderonawhite_71597878 Background Removed](https://github.com/user-attachments/assets/30c4a6c2-28ef-4827-8343-aa40ddcab2f4) | ![bluesmile](https://github.com/user-attachments/assets/046446f0-ae78-4d06-9a6e-8e8548620df7) |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+
+
+
+
+
+
+
 Resolution for data set: 512x512
 Training Iterations: 4200
 Model Size: 8
