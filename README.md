@@ -21,7 +21,7 @@ Using the Diffusion Bee app for Mac, I trained my own Image Generation model to 
 - Feel free to train the model with the dataset provided on any service of your choice.
 - I plan on training a model and hosting it on hugging face in the future.
 
-# Shout Outs 📣
+# Credits 📣
 
 Tools used to make FolderGenie:
 1. Folder Art tool - https://folderart.christianvm.dev
