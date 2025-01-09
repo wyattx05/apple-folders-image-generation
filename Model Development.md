@@ -63,15 +63,11 @@ The results were not as good as I expected. The model still had the same trouble
 | ![redcolorfolderonawhiteba_41700723 Background Removed](https://github.com/user-attachments/assets/30b1ebeb-fd85-4df9-8f7f-38b2e5d02f23) | ![orangecolorfolderonawhite_54862724 Background Removed](https://github.com/user-attachments/assets/866187f8-93b9-4247-90a6-ea9915f0f8b1) | ![pinkcolorfolderonawhiteb_4803479 Background Removed](https://github.com/user-attachments/assets/50902625-89d0-4555-a8f7-975352d54827) | ![purplecolorfolderonawhite_8427870 Background Removed](https://github.com/user-attachments/assets/5faa5ba9-ec54-41a6-a487-be9ce47699c9) | ![Yellowcolorfolderonawhite_90432293 Background Removed](https://github.com/user-attachments/assets/4131193b-7759-4aa1-a4e3-236709c0cbb3) | ![greencolorfolderonawhite_71597878 Background Removed](https://github.com/user-attachments/assets/30c4a6c2-28ef-4827-8343-aa40ddcab2f4) | ![bluesmile](https://github.com/user-attachments/assets/046446f0-ae78-4d06-9a6e-8e8548620df7) |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 
-
-
-
-
-
-
 Resolution for data set: 512x512
 Training Iterations: 4200
 Model Size: 8
 Time: 
 
-The results of model 6 were a lot better and after fixing all the prompts in the data set I made prompt templates to use while genorating the folders. After using this model for a couple hours I realized it was good enough to publish on GitHub making it the first publicly avaible version. It still has some major bugs but has created some good folders so far. I plan to update with more iterations and give more detailed reports. I especially want to try other platforms that DiffusionBee.
+The results of model 6 were a lot better and after fixing all the prompts in the data set I made prompt templates to use while genorating the folders. After using this model for a couple hours I realized it was good enough to publish on GitHub making it the first publicly avaible version. It still has some major bugs but has created some good folders so far. I plan to update with more iterations and give more detailed reports. I especially want to try other platforms that DiffusionBee. Looking at the results above you can see the star isn't the same color as the folder and looks diffrent than the other folders. This has happened with a lot of generations and I kind of like this design too along with the translucent design. I could eventually build eough images to build a dataset to devide those designs instead of it being randmom. For now model 6 is good and it is time I give my computer a break on training. 
+
+I started this project Sunday January 5th and made Model 6 on January 8th. 
