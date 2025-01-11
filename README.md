@@ -3,7 +3,11 @@
 
 Welcome to Folder Genie!
 Using the Diffusion Bee app for Mac, I trained my own Image Generation model to generate custom color folders with icons on top to use for your Mac. I have gone through 6 different trainings of this model each time tweaking the dataset so the images generated are actually what I was expecting. I trained this model on my Macbook Pro all though the DuffusionBee application.
-Right now I am on model 6 but I plan on now re-training that specific model instead of making a whole new one and plan to come out with a version 6.1 to see if it is any better. I also plan on trying other services that Diffusion Bee to train a model with my dataset to provide more options.
+
+
+Currently I am on model 6, the first model posted to GitHub. This is the first model that could generate images that were good and acceptable for my project idea. I am working on a Model 6.1 where I am just retraining the model with the same dataset too see if there will be better results. There will be one version trained half as manytimes (so 2100) and one trained the same ammount as model 6 was (4200). 
+
+I am also working on improving the dataset, then I am going to publish it to Huggingface and plan to come out with a better more advanced model 7 as I learn more about training AI models locally.
 
 # Getting Started 🤖
 1. Download Stable Diffusion Bee
