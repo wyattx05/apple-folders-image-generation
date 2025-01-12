@@ -1,13 +1,12 @@
 # Apple Folder Image Generation with DiffusionBee
 ![Folder Genie](https://github.com/user-attachments/assets/48217771-4342-41ae-9a8a-a4e3cacab20e)
 
-Welcome to Folder Genie!
-Using the Diffusion Bee app for Mac, I trained my own Image Generation model to generate custom color folders with icons on top to use for your Mac. I have gone through 6 different trainings of this model each time tweaking the dataset so the images generated are actually what I was expecting. I trained this model on my Macbook Pro all though the DuffusionBee application.
+### Welcome to Folder Genie 🧞‍♂️
 
 
-Currently I am on model 6, the first model posted to GitHub. This is the first model that could generate images that were good and acceptable for my project idea. I am working on a Model 6.1 where I am just retraining mode 6 with the same dataset too see if there will be better results. In the past I have just retrained the defult model from DiffusionBee to get to a better model that could produce decent results. Now that I am there, I can now see how retraining that model would work out. I have tried this in the past with model 4 and a model 4.1 and the results were not good, but too be expected becuase the results were not teh best on model 4 to begin with.
+Using the Diffusion Bee app for Mac, I trained my own Image Generation model to generate custom color folders with icons on top to use for your Mac. I have gone through 6 different trainings of this model each time tweaking the dataset by adding images and ajusting the base prompts to get the best output. Read through Model Development to see each iteration. I trained this model on my Macbook Pro M3 Pro 18 GB of memory.
 
-I am also working on improving the dataset, then I am going to publish it to Huggingface and plan to come out with a better more advanced model 7 as I learn more about training AI models locally.
+Model 6 was the first actual model released on Github as it gave the results I was looking for. Read through Model Development to see each iteration and it's progression. Now I am on Model 6.1 which is a retrained version of model 6 with the same dataset and it has provided slightly better results but there wasn't that much improvment.
 
 # Getting Started 🤖
 1. Download Stable Diffusion Bee
