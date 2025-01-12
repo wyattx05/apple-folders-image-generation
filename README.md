@@ -6,16 +6,16 @@
 
 Using the Diffusion Bee app for Mac, I trained my own Image Generation model to generate custom color folders with icons on top to use for your Mac. I have gone through 6 different trainings of this model each time tweaking the dataset by adding images and ajusting the base prompts to get the best output. Read through Model Development to see each iteration. I trained this model on my Macbook Pro M3 Pro 18 GB of memory.
 
-Model 6 was the first actual model released on Github as it gave the results I was looking for. Read through Model Development to see each iteration and it's progression. Now I am on Model 6.1 which is a retrained version of model 6 with the same dataset and it has provided slightly better results but there wasn't that much improvment.
+Model 6 was the first actual model released on Github as it gave the results I was looking for. Read through [Model Development](https://github.com/wyattx05/apple-folders-image-generation/blob/main/Model%20Development.md) to see each iteration and it's progression. Now I am on Model 6.1 which is a retrained version of model 6 with the same dataset and it has provided slightly better results but there wasn't that much improvment.
 
 # Getting Started 🤖
 1. Download Stable Diffusion Bee
        https://diffusionbee.com
-2. Download my model on the Model 6 Download document
-3. Look through the Prompts document and start generating your folders
+2. Download my model [here](https://drive.google.com/file/d/1KQTvBtzFeAfi-vPcAscDHDkfMV5XNf-G/view)
+3. Look through the [Prompts document](https://github.com/wyattx05/apple-folders-image-generation/blob/main/Prompts.md) and start generating your folders
 4. Remove the background of the image and set the new image as your icon
 
-#### For more instruction read through all the Model 6 Download & How to apply generated folder documents.
+#### For more instruction read through all the [Model 6 Download](https://github.com/wyattx05/apple-folders-image-generation/blob/main/Model%206%20Download.md) & [How to apply generated folder documents](https://github.com/wyattx05/apple-folders-image-generation/blob/main/Apply%20Folder%20Icons.md).
 
 # Caution ⚠️
 - This model is not perfect and won't always give the result you want. Please follow the prompts suggested as that will work best.
