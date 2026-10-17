@@ -1,11 +1,8 @@
-# How to download the latest model
-I am still getting used to using GitHub so for now I am hosting the model on Google Drive and it can be downloaded from there. This won't be the case forever. I plan on making more models off of stable diffusion for me to post on platforms like Hugginface for easier access.
+# [Model 6.1 Download](https://huggingface.co/wyattx05/Folders-ModelV6/tree/main)
+Hosted on Hugging-face
 
-# Download Link 🔗
-https://drive.google.com/file/d/1KQTvBtzFeAfi-vPcAscDHDkfMV5XNf-G/view?usp=sharing
-
-# Instructions 📋
-1. Download model from Google Drive
+## Instructions 📋
+1. Download model from Hugging-face
 2. Open Diffusion Bee and go to models
 3. click Upload Model from Computer and upload model
 4. Go to text to image section
